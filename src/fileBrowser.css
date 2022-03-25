@@ -1,0 +1,54 @@
+.FileBrowser {
+    font-family: 'Roboto', sans-serif;  
+    margin: 30px;
+}
+h1 {
+    font-size: 2em;
+    margin: 0;
+    padding: 0;
+}
+
+.FileBrowser-list {
+    padding: 20px;
+    padding-top: 3px;
+}
+
+.FileBrowser-list-folder {
+    padding: 15px;
+    padding-left: 0px;
+}
+
+.FileBrowser-list-folder a {
+    color: rgb(75, 74, 74);
+    text-decoration: none;
+    border-bottom: 1px solid rgb(226, 226, 226);
+    transition: all .2s ease-in-out !important;
+}
+
+.FileBrowser-list-folder a:hover {
+    border-bottom: 1px solid black;
+}
+
+.FileBrowser-list-file {
+    padding: 15px;
+    padding-left: 0px;
+}
+
+.FileBrowser-list-file a {
+    color: rgb(75, 74, 74);
+    font-size: 1em;
+    text-decoration: none;
+    border-bottom: 1px solid rgb(226, 226, 226);
+    transition: all .2s ease-in-out !important;
+}
+.FileBrowser-list-file a:hover {
+    border-bottom: 1px solid black;
+}
+
+.FileBrowser-list-file p {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(75, 74, 74);
+    margin: 0;
+    padding-top: 3px;
+    font-size: 1em;
+}
