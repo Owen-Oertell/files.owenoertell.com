@@ -18,6 +18,16 @@ const fileList = {
                 "file": "reinforcement-sutton.pdf",
                 "size": "78.8 MB"
             }
+        },
+        "math": {
+            "type": "folder",
+            "linearAlgebra-shilov": {
+                "type": "file",
+                "title": "Linear Algebra",
+                "author": "Georgi E. Shilov",
+                "file": "linear-shilov.pdf",
+                "size": "10.6 MB"
+            }
         }
     }
 };
@@ -25,34 +35,7 @@ const fileList = {
 export default fileList;
 /*
 const fileList = {
-    "papers": {
-        "type": "folder",
-        "content": 
-            "cs": {
-                "type": "folder",
-                "content": {
-                }
-            },
-            "math": {
-                "type": "folder",
-                "content": {
-                }
-            }
-        }
-    },
-    "textbooks": {
-        "type": "folder",
-        content: {
-            "cs": {
-                "type": "folder",
-                "content": {
-
-                }
-            }
-            "math": [
-            ]
-        }
-
+    
     },
     "scotus": {
         "type": "folder"
