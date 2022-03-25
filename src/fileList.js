@@ -27,6 +27,27 @@ const fileList = {
                 "author": "Georgi E. Shilov",
                 "file": "linear-shilov.pdf",
                 "size": "10.6 MB"
+            },
+            "calculus-hass": {
+                "type": "file",
+                "title": "Thomas' Calculus: Early Trancendentals",
+                "author": "Joel Hass, Christopher Heil, and Maurice D. Weir ",
+                "file": "calculus-hass.pdf",
+                "edition": "14th",
+                "size": "101 MB"
+            }
+        }
+    },
+    "books": {
+        "type": "folder",
+        "philosophy": {
+            "type": "folder",
+            "meditatations-arelius": {
+                "type": "file",
+                "title": "Meditations",
+                "author": "Marcus Aurelius",
+                "file": "meditations-arelius.pdf",
+                "size": "1 MB"
             }
         }
     }
