@@ -24,6 +24,13 @@ const fileList = {
                 "author": "Ian Goodfellow, Yoshua Bengio, and Aaron Courville",
                 "file": "deep-goodfellow.pdf",
                 "size": "24.3 MB"
+            },
+            "ocaml-clarkson": {
+                "type": "file",
+                "title": "OCaml Programming: Correct + Efficient + Beautiful",
+                "author": "Michael R. Clarkson et al.",
+                "file": "ocaml-clarkson.pdf",
+                "size": "1.9 MB"
             }
         },
         "finance": {
