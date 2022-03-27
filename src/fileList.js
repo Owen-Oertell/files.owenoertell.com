@@ -1,4 +1,5 @@
 const fileList = {
+    /*
     "textbooks": {
         "type": "folder",
         "cs": {
@@ -100,7 +101,7 @@ const fileList = {
                 "edition": "2nd"
             }
         }
-    }
+    }*/
 };
 
 export default fileList;
