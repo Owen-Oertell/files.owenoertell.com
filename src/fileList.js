@@ -1,8 +1,8 @@
 const fileList = {
     "resume": {
         "type": "file",
-        "title": "Curriculum Vitae",
-        "author": "Owen Oertell",
+        "title": "resume.pdf",
+        "author": "",
         "file": "resume.pdf",
         "size": "37 KB"
     }
