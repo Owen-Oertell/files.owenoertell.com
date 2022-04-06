@@ -5,6 +5,16 @@ const fileList = {
         "author": "",
         "file": "resume.pdf",
         "size": "37 KB"
+    },
+    "presentations": {
+        "type": "folder",
+        "introMachineLearning": {
+            "type": "file",
+            "title": "Introduction to Machine Learning",
+            "author": "Owen Oertell",
+            "file": "intro-ml.pdf",
+            "size": "2.8 MB"
+        }
     }
     /*
     "textbooks": {
