@@ -15,8 +15,7 @@ const fileList = {
             "file": "intro-ml.pdf",
             "size": "2.8 MB"
         }
-    }
-    /*
+    },
     "textbooks": {
         "type": "folder",
         "cs": {
@@ -118,7 +117,7 @@ const fileList = {
                 "edition": "2nd"
             }
         }
-    }*/
+    }
 };
 
 export default fileList;
