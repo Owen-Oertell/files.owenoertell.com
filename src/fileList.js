@@ -91,6 +91,14 @@ const fileList = {
                 "file": "differential-brannan.pdf",
                 "size": "12.4 MB",
                 "edition": "3rd"
+            },
+            "metric-sutherland": {
+                "type": "file",
+                "title": "Introduction to Metric & Toplogical Spaces",
+                "author": "Wilson A. Sutherland",
+                "file": "metric-sutherland.pdf",
+                "size": "10.2 MB",
+                "edition": "2nd"
             }
         }
     },
