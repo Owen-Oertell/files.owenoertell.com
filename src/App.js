@@ -32,8 +32,8 @@ function objectPath(obj, path) {
 function addBackButton() {
   if (window.location.pathname !== "/" && window.location.pathname !== "") {
     return (<div className='FileBrowser-list-folder'>
-      <a href={window.location.href.substring(0, window.location.href.slice(0, -1).lastIndexOf('/')) + "/"}>../</a>
-    </div>)
+      <a href={window.location.href.substring(0, window.location.href.slice(0, -1).lastIndexOf('/')) + (window.location.href === "files.owenoertell.com" || window.location.href === "files.owenoertell.net" ? "" : "/")}>../</a>
+    </div >)
   }
 }
 
