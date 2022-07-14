@@ -79,7 +79,7 @@ const fileList = {
             "calculus-hass": {
                 "type": "file",
                 "title": "Thomas' Calculus: Early Trancendentals",
-                "author": "Joel Hass, Christopher Heil, and Maurice D. Weir ",
+                "author": "Joel Hass, Christopher Heil, and Maurice D. Weir",
                 "file": "calculus-hass.pdf",
                 "edition": "14th",
                 "size": "101 MB"
