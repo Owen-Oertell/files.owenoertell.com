@@ -61,7 +61,7 @@ function getFolderDir(path) {
       } else if (obj[key].type === "file") { // file!
         return (
           <div className='FileBrowser-list-file' key={key}>
-            <p><a target="_blank" rel="noopener noreferrer" href={window.location.href + obj[key].file}>{obj[key].title}</a> ({obj[key].size})</p>
+            <p><a target="_blank" rel="noopener noreferrer" href={window.location.href + (window.location.href[window.location.href.length - 1] === "/" ? "" : "/") + obj[key].file}>{obj[key].title}</a> ({obj[key].size})</p>
             <p><i>{obj[key].author}{edt(obj, key)}</i></p>
           </div>
         );
