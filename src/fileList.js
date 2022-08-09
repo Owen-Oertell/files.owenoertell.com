@@ -48,7 +48,7 @@ const fileList = {
                 "author": "Michael R. Clarkson et al.",
                 "file": "ocaml-clarkson.pdf",
                 "size": "1.9 MB"
-            }
+            },
             "competitve-laaksonen": {
                 "type": "file",
                 "title": "Guide to Competitive Programming: Learning and Improving Algorithms Through Contests",
