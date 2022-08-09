@@ -49,6 +49,14 @@ const fileList = {
                 "file": "ocaml-clarkson.pdf",
                 "size": "1.9 MB"
             }
+            "competitve-laaksonen": {
+                "type": "file",
+                "title": "Guide to Competitive Programming: Learning and Improving Algorithms Through Contests",
+                "author": "Antti Laaksonen",
+                "file": "competitive-laaksonen.pdf",
+                "size": "5.2 MB"
+
+            }
         },
         "finance": {
             "type": "folder",
