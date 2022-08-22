@@ -55,7 +55,13 @@ const fileList = {
                 "author": "Antti Laaksonen",
                 "file": "competitive-laaksonen.pdf",
                 "size": "5.2 MB"
-
+            },
+            "algorithm-kleinberg": {
+                "type": "file",
+                "title": "Algorithm Design",
+                "author": "Jon Kleinberg and Eva Tardos",
+                "file": "algorithm-kleinberg.pdf",
+                "size": "5.2 MB"
             }
         },
         "finance": {
@@ -107,6 +113,14 @@ const fileList = {
                 "file": "metric-sutherland.pdf",
                 "size": "10.2 MB",
                 "edition": "2nd"
+            },
+            "advanced-roman": {
+                "type": "file",
+                "title": "Advanced Linear Algebra",
+                "author": "Steven Roman",
+                "file": "advanced-brannromanan.pdf",
+                "size": "5.5 MB",
+                "edition": "3rd"
             }
         }
     },
