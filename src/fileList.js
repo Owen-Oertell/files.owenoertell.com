@@ -118,7 +118,7 @@ const fileList = {
                 "type": "file",
                 "title": "Advanced Linear Algebra",
                 "author": "Steven Roman",
-                "file": "advanced-brannromanan.pdf",
+                "file": "advanced-roman.pdf",
                 "size": "5.5 MB",
                 "edition": "3rd"
             }
