@@ -106,7 +106,15 @@ const fileList = {
                 "size": "12.4 MB",
                 "edition": "3rd"
             },
-            "metric-sutherland": {
+            "numerical-nocedal": {
+                "type": "file",
+                "title": "Numerical Optimization",
+                "author": "Jorge Nocedal and Stephen J. Wright",
+                "file": "numerical-nocedal.pdf",
+                "size": "4.4 MB",
+                "edition": "2nd"
+            },
+            "": {
                 "type": "file",
                 "title": "Introduction to Metric & Toplogical Spaces",
                 "author": "Wilson A. Sutherland",
