@@ -62,6 +62,14 @@ const fileList = {
                 "author": "Jon Kleinberg and Eva Tardos",
                 "file": "algorithm-kleinberg.pdf",
                 "size": "5.2 MB"
+            },
+            "algorithms-cormen": {
+                "type": "file",
+                "title": "Introduction to Algorithms",
+                "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+                "file": "algorithms-cormen.pdf",
+                "size": "5.1 MB",
+                "edition": "3rd"
             }
         },
         "finance": {
