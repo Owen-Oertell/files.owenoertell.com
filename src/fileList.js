@@ -129,7 +129,7 @@ const fileList = {
                 "size": "4.4 MB",
                 "edition": "2nd"
             },
-            "": {
+            "metric-sutherland": {
                 "type": "file",
                 "title": "Introduction to Metric & Toplogical Spaces",
                 "author": "Wilson A. Sutherland",
@@ -144,6 +144,14 @@ const fileList = {
                 "file": "advanced-roman.pdf",
                 "size": "5.5 MB",
                 "edition": "3rd"
+            },
+            "convex-boyd": {
+                "type": "file",
+                "title": "Convex Optimization",
+                "author": "Stephen Boyd and Lieven Vandenberghe",
+                "file": "convex-boyd.pdf",
+                "size": "6.9 MB",
+                "edition": "7th"
             }
         }
     },
