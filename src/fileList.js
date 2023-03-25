@@ -70,6 +70,13 @@ const fileList = {
                 "file": "algorithms-cormen.pdf",
                 "size": "5.1 MB",
                 "edition": "3rd"
+            },
+            "semantics-winskel" : {
+                "type": "file",
+                "title": "The Formal Semantics of Programming Lanugages: An Introduction",
+                "author": "Glynn Winskel",
+                "file": "semantics-winskel.pdf",
+                "size": "6.5 MB"
             }
         },
         "finance": {
